@@ -18,9 +18,16 @@
 
 <html>
     <head>
-        <title></title>
+        <title>My First Document</title>
     </head>
 <body>
-    <div></div>
+    <div>
+        <h1><b>My Web Page</b></h1>
+        <p>Welcome to my web page. Here you find all sorts of information about me and list of html5 tags</p>
+        <h2>Who am i?</h2>
+        <p>My name is Alvaro was born in 1974 and am practicing html.</p>
+        <!-- Top tags used to html -->
+        
+    </div>
 </body
 </html>
