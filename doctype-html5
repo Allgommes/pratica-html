@@ -1,16 +1,81 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
     <head>
+        <meta charset="UTF-8"
         <title>My First Document</title>
     </head>
+
 <body>
-    <div>
-        <h1><b>Titulo da pagina</b></h1>
-        <p>Isto é um paragrafo</p>
-        <h2>subtitulo</h2>
-        <p>Mais um paragrafo. Quero iditar este documento com as novas tags utilizadas em HTM5.</p>
-        <!-- Top tags used to html -->
-        
-    </div>
+
+# semantic struture html5
+# header
+
+<header>
+    <hgroup> 
+        <h1>First title</h1>
+        <h2>Second title</h2>
+    </hgroup>
+<nav>
+    <ul>
+        <li><a href="adress.png">Link foto</a></li>
+        <li><a href="adress.png">Link foto</a></li>
+        <li><a href="adress.png">Link foto</a></li>
+        <li><a href="adress.png">Link foto</a></li>
+    </ul>    
+</nav> 
+
+</header>
+
+# content
+
+<main>
+    <article>
+        <h2><b>Title of the page</h2>
+            <p>This is a paragraph</p>
+            <p>Another paragraph. I want to edit this document with new tags used in HTM5.</p>
+        <figure>
+            <legend>Hi i am here</legend>
+                <img src"imagem.png" alt="Keyword or description" width="300" height="250"/>
+        </figure> 
+    <aside>
+        <p>Description of the advert</p>
+    </aside>
+        <footer>
+            <p>my name alvaro faria tips #ferreirastudios</p>
+            <time datatime="2016-08-22 20:00">data actual</time>
+        </footer>
+    </article>
+</main>
+
+# side bar right
+
+<aside>
+    <section>
+        <h2>right side of my page<h2>
+        <p>contents of my aside</p>
+    </section>
+</aside>
+
+# footer
+
+<footer>
+    <nav>
+    <ul>
+        <li><a href="adress.oi">Link</a></li>
+        <li><a href="adress.oi">Link</a></li>
+        <li><a href="adress.oi">Link</a></li>
+        <li><a href="adress.oi">Link</a></li>
+    </ul>    
+</nav> 
+
+    <address>
+        <p>make your collaboration</p>
+        <a href="contact.oi">Contact</a>
+    </address>
+    
+    <p>contributes to add your tags html5 to create a beautiful site</p>
+    
+</footer>
+
 </body
 </html>
