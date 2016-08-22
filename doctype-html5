@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Document</title>
+    </head>
+<body>
+    <div>
+        <h1><b>Titulo da pagina</b></h1>
+        <p>Isto é um paragrafo</p>
+        <h2>subtitulo</h2>
+        <p>Mais um paragrafo. Quero iditar este documento com as novas tags utilizadas em HTM5.</p>
+        <!-- Top tags used to html -->
+        
+    </div>
+</body
+</html>
