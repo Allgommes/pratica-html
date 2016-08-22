@@ -1,31 +1,14 @@
-<!DOCTYPE html> /* you to be use */
-
-#HTML 4.01 Strict <!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML
-#4.01//EN”
-#“http://www.w3.org/TR/html4/strict.dtd”>
-
-#HTML 4.01 Transitional <!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML
-#4.01 Transitional//EN”
-#“http://www.w3.org/TR/html4/loose.dtd”>
-
-#XHTML 1.0 Strict <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0
-#Strict//EN”
-#“http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
-
-#XHTML 1.1 DTD <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.1//
-#EN”
-#“http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd”>
-
+<!DOCTYPE html>
 <html>
     <head>
         <title>My First Document</title>
     </head>
 <body>
     <div>
-        <h1><b>My Web Page</b></h1>
-        <p>Welcome to my web page. Here you find all sorts of information about me and list of html5 tags</p>
-        <h2>Who am i?</h2>
-        <p>My name is Alvaro was born in 1974 and am practicing html.</p>
+        <h1><b>Titulo da pagina</b></h1>
+        <p>Isto é um paragrafo</p>
+        <h2>subtitulo</h2>
+        <p>Mais um paragrafo. Quero iditar este documento com as novas tags utilizadas em HTM5.</p>
         <!-- Top tags used to html -->
         
     </div>
